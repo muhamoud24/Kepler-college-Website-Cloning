@@ -372,7 +372,7 @@ body{
 
 
 .next-step{
-    background:#0d2c54;
+    background:linear-gradient(10deg, #f7b500, #0d4f7a);
     color:white;
     padding:80px 100px;
     display:flex;
@@ -428,7 +428,13 @@ body{
 .address p{
     line-height:1.8;
 }
-
+#viewsport a{
+    background-color:#ffd54f;
+    color:white;
+    padding:14px 30px; 
+    border-radius:40%;
+    border:solid;
+}
 
 .social-links{
     background:#f4f4f4;
