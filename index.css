@@ -101,16 +101,18 @@ body{
     color:#f7b500;
     background:transparent;
 }
-#apply-online,
-#request-info{
+.apply-online,
+.request-info{
     text-decoration:none;
     color:white;
     font-weight:bold;
 }
 
-#apply-online:hover,
-#request-info:hover{
+.apply-btn:hover,
+.request-btn:hover{
     color:#ffd54f;
+    box-sizing:50%;
+
 }
 
 
